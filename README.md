@@ -1,5 +1,7 @@
 > [!NOTE]
-> Planilha utilizada na atividade: [Supermaket sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales).
+> Planilha utilizada na atividade: [supermarket_sales](https://github.com/alcangio/procedureVendas/blob/main/supermarket_sales.csv)
+> 
+> Fonte: [Kaggle.com](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
 # Desenvolvimento 3 #101836
 Uma empresa de vendas tem um banco de dados com informações sobre os seus produtos. Para ajudar a empresa: 
